@@ -9,6 +9,7 @@ public class Task1 {
 			if(i%2==0)
 			{
 				System.out.println(i);
+				
 			}
 			i=i-1;
 		}	
